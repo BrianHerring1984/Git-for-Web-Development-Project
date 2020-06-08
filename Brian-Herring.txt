@@ -1,5 +1,5 @@
 My 2nd Assignment:
-https://codepen.io/Brian-Herring/pen/abdOOde?editors=1100
+https://codepen.io/Brian-Herring/pen/abdOOde
 
 1. What is Semantic HTML? 
 It adds logic & meaning. It also helps search engines with context.
